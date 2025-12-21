@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+venv/
+
+# CSV / Excel data files
+*.csv
+*.xlsx
+
+# VS Code / editor settings
+.vscode/
+*.code-workspace
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+Thumbs.db
+.DS_Store
