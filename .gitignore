@@ -1,19 +1,10 @@
-# Virtual environment
-.venv/
-venv/
+# Ignore everything by default
+*
 
-# CSV / Excel data files
-*.csv
-*.xlsx
+# But do NOT ignore these:
+!storage.py
+!README.md
+!complete_aqi_system.py
 
-# VS Code / editor settings
-.vscode/
-*.code-workspace
-
-# Python cache
-__pycache__/
-*.pyc
-
-# System files
-Thumbs.db
-.DS_Store
+# Also keep .gitignore itself
+!.gitignore
