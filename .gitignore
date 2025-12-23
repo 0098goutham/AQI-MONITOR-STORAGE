@@ -5,6 +5,7 @@
 !storage.py
 !README.md
 !complete_aqi_system.py
+!aqi_ocr_pm25.py
 
 # Also keep .gitignore itself
 !.gitignore
