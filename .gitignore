@@ -6,6 +6,7 @@
 !README.md
 !complete_aqi_system.py
 !aqi_ocr_pm25.py
+!aqi_prototypeV1.4.py
 
 # Also keep .gitignore itself
 !.gitignore
